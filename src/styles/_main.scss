@@ -1,0 +1,12 @@
+.main-header {
+  display: flex;
+  flex-direction: column;
+  color: #030027;
+  background-color: #e5ffcc;
+
+  .split-header {
+    display: flex;
+    flex-direction: row;
+    margin-top: 4rem;
+  }
+}

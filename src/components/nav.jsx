@@ -3,7 +3,10 @@ import React from "react";
 function Nav() {
   return (
     <div className="nav">
-      <p>Nav</p>
+      <a>About</a>
+      <a>Skills</a>
+      <a>Projects</a>
+      <a>Education</a>
     </div>
   );
 }

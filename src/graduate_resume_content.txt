@@ -1,0 +1,45 @@
+Projects
+	Industry
+		Change Management Review & Recommendations: Ara ICT Division 
+		Anti-Money Laundering Implementation: Helmore Ayers Lawyers 
+	Academic
+		Design database schema and dictionary for Vector AMS
+		Analysis of IT Service Management alignment for Kathmandu Limited
+		Business processing mapping for Helmore Ayers for purchase of property
+		AWS Cloud Implementation
+		
+Skills
+	Business Problem Analysis (DMAIC)
+	Business Process Mapping
+	Business Domain Analysis
+	Interviewing
+	Gap Analysis
+	Strategic Analysis
+	Stakeholder Analysis
+	Project Management
+	Unified Modelling Language
+	Data Analysis
+	Data visualisation using PowerBI and SPSS
+	Development: JavaScript (vanilla, Vue.js), PHP, MySQL
+	Networking: CCNA 1, AWS Cloud Services
+	
+	
+Experience
+	Ara Institute of Canterbury
+		Project Student: July 2020-December 2020
+		ICT Casual - PC Rollouts Technician: 2019-present
+		Teaching Assistant: July 2019 - October 2019
+	Helmore Ayers Lawyers
+		Legal Executive: September 2017-September 2019
+	Fairway Training (UK)
+		Payroll Assistant: January 2017-April 2017
+	Maclaren Warner Solicitors (UK)
+		Legal Secretary: August 2015-August 2016
+	Helmore Ayers Lawyers
+		Legal Secretary: June 2020 to April 2015
+	
+Education
+	Bachelor of Information and Communication Technologies (major: Information Systems) (2020)
+	Certificate of Information Technology Essentials (2017)
+	New Zealand Law Society Legal Executive Diploma (2012)
+	
